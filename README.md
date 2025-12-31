@@ -1,4 +1,4 @@
-# Refression Models for Speaker Age Estimation
+# Regression Models for Speaker Age Estimation
 
 The goal of this project is to develop a data science pipeline for predicting the speaker’s age for each audio recording.
 
